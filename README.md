@@ -1,1 +1,1 @@
-# hangman with React TypeScript and Vite.JS
+# Hangman with React TypeScript and Vite.JS
